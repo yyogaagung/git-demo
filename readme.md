@@ -1,6 +1,6 @@
 #readme
 
-#intoduction
+#introduction
 
 i am learned gitflow workflow
 
